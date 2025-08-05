@@ -37,8 +37,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-3 bg-blue-600 hover:bg-blue-700 py-2 text-sm"
-              onClick={() => window.open('mailto: Email 
-etradeglobal009@gmail.com')}
+              onClick={() => window.open('mailto: etradeglobal009@gmail.com')}
             >
               Contact via Email
             </Button>
@@ -101,8 +100,7 @@ etradeglobal009@gmail.com')}
 
         <div className="mt-6 text-center">
           <p className="text-gray-500 text-sm">Available 24/7 for your support needs</p>
-          <p className="text-blue-600 font-medium mt-1 text-sm">Email 
-etradeglobal009@gmail.com</p>
+          <p className="text-blue-600 font-medium mt-1 text-sm">etradeglobal009@gmail.com</p>
         </div>
       </div>
     </div>
