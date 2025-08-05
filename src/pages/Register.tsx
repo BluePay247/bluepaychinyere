@@ -54,7 +54,7 @@ const Register = () => {
   };
 
   const handleHelpClick = () => {
-    window.open("https://t.me/bluepay10", "_blank");
+    window.open("https://t.me/Bluepayofficial_00", "_blank");
   };
 
   return (
