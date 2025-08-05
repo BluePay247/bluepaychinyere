@@ -16,7 +16,7 @@ const EarnMore = () => {
   };
 
   const generateReferralLink = () => {
-    return `https://bluepay2025-drab.vercel.app/`;
+    return `https://bluepayearningapk.vercel.app/`;
   };
 
   const generateReferralMessage = () => {
