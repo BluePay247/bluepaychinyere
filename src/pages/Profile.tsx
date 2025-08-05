@@ -97,7 +97,7 @@ const Profile = () => {
   };
 
   const handleDownloadApp = () => {
-    window.open("https://median.co/share/jraryb#apk");
+    window.open("https://median.co/share/wzwrjy#apk");
     toast({
       title: "Opening download page",
       description: "Redirecting to app download...",
