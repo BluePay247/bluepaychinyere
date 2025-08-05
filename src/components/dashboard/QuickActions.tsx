@@ -7,7 +7,7 @@ const QuickActions = () => {
   const navigate = useNavigate();
   
   const handleWatch = () => {
-    window.open("https://t.me/+NXGEplUQjP5iMmRk", "_blank");
+    window.open("https://chat.whatsapp.com/INDIl6Qq2t20Q9f140HOsf?mode=ac_t", "_blank");
   };
 
   const quickActions = [
