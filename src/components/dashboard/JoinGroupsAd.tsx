@@ -25,12 +25,12 @@ const JoinGroupsAd = () => {
   };
 
   const handleJoinTelegram = () => {
-    window.location.href = "https://t.me/+NXGEplUQjP5iMmRk";
+    window.location.href = "https://t.me/+-9eVfTKD3mdhMTNk";
     handleDismiss();
   };
 
   const handleJoinWhatsApp = () => {
-    window.location.href = "https://whatsapp.com/channel/0029Vb5rpnuEQIaxA7taFz1r";
+    window.location.href = "https://chat.whatsapp.com/INDIl6Qq2t20Q9f140HOsf?mode=ac_t";
     handleDismiss();
   };
 
