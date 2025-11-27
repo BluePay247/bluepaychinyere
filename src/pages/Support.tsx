@@ -8,7 +8,7 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('https://t.me/Bluepayofficial_00', '_blank');
+    window.open('https://t.me/bluepay11', '_blank');
   };
 
   return (
@@ -37,7 +37,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-3 bg-blue-600 hover:bg-blue-700 py-2 text-sm"
-              onClick={() => window.open('mailto: etradeglobal009@gmail.com')}
+              onClick={() => window.open('mailto: markpeterson12333@gmail.com')}
             >
               Contact via Email
             </Button>
@@ -55,7 +55,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-3 bg-blue-600 hover:bg-blue-700 py-2 text-sm"
-              onClick={() => window.open('https://t.me/Bluepayofficial_00')}
+              onClick={() => window.open('https://t.me/bluepay11')}
             >
               Open Telegram
             </Button>
@@ -73,7 +73,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-3 bg-blue-600 hover:bg-blue-700 py-2 text-sm"
-              onClick={() => window.open('https://wa.me/2348125120756')}
+              onClick={() => window.open('https://wa.me/09053304688')}
             >
               Chat on WhatsApp
             </Button>
@@ -100,7 +100,7 @@ const Support = () => {
 
         <div className="mt-6 text-center">
           <p className="text-gray-500 text-sm">Available 24/7 for your support needs</p>
-          <p className="text-blue-600 font-medium mt-1 text-sm">etradeglobal009@gmail.com</p>
+          <p className="text-blue-600 font-medium mt-1 text-sm">markpeterson12333@gmail.com</p>
         </div>
       </div>
     </div>
